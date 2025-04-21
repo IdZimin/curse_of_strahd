@@ -2,7 +2,7 @@
   "id": "test",
   "title": "test",
   "version": "1.0.0",
-  "manifest": "https://github.com/IdZimin/curse_of_strahd/edit/main/test/module.json",
+  "manifest": "https://raw.githubusercontent.com/IdZimin/curse_of_strahd/refs/heads/main/test/module.json",
   "compatibility": {
     "minimum": "12",
     "verified": "12"
